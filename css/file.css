@@ -1,0 +1,178 @@
+body
+{
+	background:#fafafa;
+}
+.head
+{
+	margin-left: 280px;
+	color: #999999;
+	width: auto;
+	display: flex;
+	justify-content: space-between;
+	
+}
+.headere{
+	margin-left: 0px;
+	width:1500px;
+}
+/*h1 style*/
+.head1
+{
+	font-family:Roboto,Helvetica,Arial,sans-serif;
+	font-size: 14px;
+	color: #999999;
+}
+/* head oarent div of input and icons*/
+.head-first-div
+{
+    display: flex;
+    justify-content: space-between;
+}
+/* div of search icon and input*/
+.search-box
+{
+    background:none;
+    padding: 7px;
+  
+    height:70px; 
+}
+/* sesrch icon style*/
+.search-btn
+{
+	color: black;
+    float:right;
+	width: 35px;
+	height: 35px;
+	border-radius: 50%;
+	background: white;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+		line-height: 25px;
+}
+/*head text style*/
+.search-txt
+{
+	border:none;
+	background: none;
+	outline: none;
+	float: left;
+	padding: 0;
+	color:black;
+	line-height: 25px;
+}
+/*line of head input*/
+.search-line
+{
+	margin-top: 30px;
+    border: 0;
+    border-top: 1px solid #999999;
+}
+/* head last three icon div*/
+.head-icon-div
+{
+	color: black;
+}
+/*last three icon in head*/
+.head-icon
+{
+	padding: 15px;
+}
+/* parent field style*/
+.field
+{
+	margin-left: 280px;
+	margin-top: 25px;
+	height:510px;
+	width: 1170px;
+    border-radius:3px;
+    border:white;
+    box-shadow: 1px 1px 2px 2px #eee;
+    background: #ffffff;
+    padding: 10px;
+}
+/*first child legend */
+.legen
+{
+	background-color:darkturquoise;
+	padding:8px;
+	width: 1150px;
+	border-radius: 3px;
+    color: #ffffff;
+    box-shadow: 1px 1px 2px 2px #eee;
+    display: flex;
+    justify-content: space-between; 
+}
+/*h2 in legend*/
+.head2
+{
+	font-family:Roboto,Helvetica,Arial,sans-serif;
+	font-size: 13px;
+	margin:9px;
+}
+/*legend div for input and icon*/
+.legen-icon-box
+{
+	width: 250px;
+	background:white;
+	height: 40px;
+	border-radius:15px;
+	padding: 7px;
+	margin-right: 45px;
+    color: darkturquoise;
+}
+/*legend icon*/
+.legen-icon-btn
+{
+	color: darkturquoise;
+    font-size: 30px; 
+    line-height:15px;
+}
+/*legend text*/
+.legen-icon-txt
+{
+	border:none;
+	background: none;
+	outline: none;
+	float: right;
+	padding: 0;
+	color:black;
+	font-size: 16px;
+	line-height: 30px;
+}
+/* sacond child in fieldset table*/
+.table-data
+{
+    width: 1130px; 
+    margin: 10px;
+    font-family:Roboto,Helvetica,Arial,sans-serif;
+    border-collapse: collapse;
+    margin-top: auto;
+}
+/* first row in table*/
+.firstrow
+{
+	color:darkturquoise;
+}
+/*data in tr of table*/
+.data 
+{
+	border-bottom: 1px solid #ddd;
+	padding:10px;
+}
+.icons{
+	font-size: 20px;
+}
+/* last row in table*/
+.lastrow
+{
+	padding: 10px;
+}
+/*End Best Members style*/
+
+
+
+
+
+
+
